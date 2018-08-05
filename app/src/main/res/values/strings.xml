@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="doapagi">
+        <item>"Lorem ipsum"</item>
+        <item>"Dolor sit amet"</item>
+        <item>"consectetur adipiscing elit"</item>
+        <item>"Proin placerat risus in magna iaculis"</item>
+    </string-array>
+    <string-array name="bacapagi">
+        <item>Read 10x</item>
+        <item>Read 5x</item>
+        <item>Read 1x</item>
+        <item>Read 8x</item>
+    </string-array>
+</resources>
